@@ -1,1 +1,3 @@
 # PID-control-motor
+A Proportional Integral Derivative (PID) controller is a generic feedback control loop mechanism widely used in industrial control systems.
+The PID controller calculates an "error" value as the difference between the measured output and the reference input. The controller attempts to minimize the error by adjusting the process control inputs. The proportional value determines the reaction to the current error, the integral value determines the reaction based on the sum of recent errors, and the derivative value determines the reaction based on the rate at which the error has been changing.
